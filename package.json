@@ -1,0 +1,15 @@
+{
+  "name": "wowflow-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "Sandro Radinkovic",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
